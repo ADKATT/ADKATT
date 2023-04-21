@@ -1,4 +1,4 @@
-# Hi there, I'm Aditya - aka ADKATT 👋 
+# Hi there, I'm Aditya - aka <a href="">ADKATT</a> 👋 
 
 
 
@@ -7,7 +7,7 @@ I am a Dreamer and Technology lover with an Entrepreneur mindset.
 I have been doing web development since 2018!
 
 - 🔭 I have a Masters Degress in Science & Maths
-- 🌱 I am full Stack & Full Time developer on #Upwork <img align="right" alt="Visual Studio Code" width="90px" src="https://w7.pngwing.com/pngs/798/102/png-transparent-upwork-freelancer-com-fiverr-peopleperhour-others.png" style="padding-right:px;" />
+- 🌱 I am full Stack & Full Time developer on #Upwork <img align="right" alt="" width="90px" src="https://cdn.worldvectorlogo.com/logos/upwork.svg" style="padding-left:150px;" />
 - 👯 I’m looking to collaborate with Long term Clients
 - 🥅 2023 Goals: Make more friends 😻 
 - ⚡ Fun fact: I love to Play Mobile Games and Driving My Bike
