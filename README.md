@@ -6,7 +6,7 @@ I am a Dreamer and Technology lover with an Entrepreneur mindset.
 I have been doing web development since 2018!
 
 - 🔭 I have a Masters Degress in Science & Maths
-- 🌱 I am full Stack & Full Time developer on <a href="https://www.upwork.com/freelancers/~01d4a71fc6c9531cea?viewMode=1">#Upwork</a> <img align="right" alt="" width="90px" src="https://cdn.worldvectorlogo.com/logos/upwork.svg" style="padding-left:150px;" />
+- 🌱 I am full Stack & Full Time developer on <a href="https://www.upwork.com/freelancers/~01d4a71fc6c9531cea?viewMode=1">#Upwork</a> <img align="right" alt="" width="90px" src="https://www.upwork.com/freelancers/~01d4a71fc6c9531cea?viewMode=1" style="padding-left:150px;" />
 - 👯 I’m looking to collaborate with Long term Clients
 - 🥅 2023 Goals: Make more friends 😻 
 - ⚡ Fun fact: I love to Play Mobile Games and Driving My Bike
