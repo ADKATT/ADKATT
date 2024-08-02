@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~01d4a71fc6c9531cea?viewMode=1](https://www.upwork.com/freelancers/~01d4a71fc6c9531cea?viewMode=1)
 
-- 📫 How to reach me **akattukar@gmail.com**
-
 - ⚡ Fun fact **I love to Play Mobile Games and Driving My Bike**
 
 <h3 align="left">Connect with me:</h3>
